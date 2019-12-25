@@ -1,0 +1,12 @@
+ Volume in drive C is WIN
+ Volume Serial Number is 4821-98B9
+
+ Directory of C:\Users\Admin\Desktop\use git
+
+12/25/2019  09:34 PM    <DIR>          .
+12/25/2019  09:34 PM    <DIR>          ..
+12/25/2019  09:28 PM                 0 file1.txt
+12/25/2019  09:32 PM                21 file2.txt
+12/25/2019  09:34 PM                 0 file3.txt
+               3 File(s)             21 bytes
+               2 Dir(s)  56,031,498,240 bytes free
