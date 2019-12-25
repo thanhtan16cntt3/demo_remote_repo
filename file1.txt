@@ -1,3 +1,7 @@
 hello world
 hello teacher
+
 hello teacher luong van vo
+<<<<<<< HEAD
+hello everyone
+
